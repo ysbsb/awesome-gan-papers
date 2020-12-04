@@ -4,9 +4,11 @@
 
 A curated list of GAN papers
 
-- GAN Basics wit code
-- GAN Metrics
-- GAN papers accepted on conferences
+- [GAN Basics with code (DCGAN, WGAN, Pix2Pix, CycleGAN, ProgressiveGAN, StyleGAN)](https://github.com/ysbsb/awesome-gan-papers#gan-basics)
+- [GAN Metrics (Inception score, FID)](https://github.com/ysbsb/awesome-gan-papers#gan-metric)
+- [GAN papers accepted on conferences (NIPS 2020, ICML 2020, CVPR 2020)](https://github.com/ysbsb/awesome-gan-papers#conference)
+
+<br>
 
 
 
@@ -30,7 +32,7 @@ Generative Adversarial Networks with codes
 
 <br>
 
-<h1>GAN Metric</h1>
+<h1>GAN Metrics</h1>
 
 
 
