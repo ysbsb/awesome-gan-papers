@@ -49,7 +49,47 @@ Generative Adversarial Networks with codes
 
 
 
+
+
 <h1>Conference</h1>
+
+<h2>ICLR 2021</h2>
+
+Oral
+
+- Do 2D GANs know 3D shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs
+- Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering
+
+Spotlight
+
+- On Self-Supervised Image Representations for GAN Evaluation
+- Influence Estimation for Generative Adversarial Networks
+- Large Scale Image Completion via Co-Modulated Generative Adversarial Networks
+
+Poster
+
+- Private Post-GAN Boosting
+- Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis
+- GAN "Steerability" without optimization
+- DINO: A Conditional Energy-Based GAN for Domain Translation
+- GANs Can Play Lottery Tickets Too
+- Training GANs with Stronger Augmentations via Contrastive Discriminator
+- Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation
+- Using latent space regression to analyze and leverage compositionality in GANs
+- GAN2GAN: Generative Noise Learning for Blind Denoising with Single Noisy Images
+- Taming GANs with Lookahead-Minmax
+- Wasserstein-2 Generative Networks
+
+- Counterfactual Generative Networks
+- Reducing the Computational Cost of Deep Generative Models with Binary Neural Networks
+- Evaluating the Disentanglement of Deep Generative Models through Manifold Topology
+- Adaptive and Generative Zero-Shot Learning
+- CcGAN: Continuous Conditional Generative Adversarial Networks for Image Generation
+- Understanding Over-parameterization in Generative Adversarial Networks
+
+
+
+
 
 <h2>NIPS 2020</h2>
 
